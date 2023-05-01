@@ -7,10 +7,7 @@
 package library.managment;
 import java.sql.*;
 import javax.swing.JOptionPane;
-/**
- *
- * @author Nishant
- */
+
 public class create_book extends javax.swing.JFrame {
 
     /**

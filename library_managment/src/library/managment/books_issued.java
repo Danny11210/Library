@@ -12,10 +12,7 @@ import java.util.HashMap;
 import javax.swing.DefaultListModel;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Nishant
- */
+
 public class books_issued extends javax.swing.JFrame {
 
     /**

@@ -5,10 +5,7 @@
  */
 package library.managment;
 
-/**
- *
- * @author Nishant
- */
+
 public class admin_menu extends javax.swing.JFrame {
 
     /**

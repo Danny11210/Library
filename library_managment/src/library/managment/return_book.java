@@ -12,10 +12,7 @@ import javax.swing.JOptionPane;
 import java.sql.ResultSet;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-/**
- *
- * @author Nishant
- */
+
 public class return_book extends javax.swing.JFrame {
 
     /**

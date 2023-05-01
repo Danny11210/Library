@@ -5,10 +5,7 @@
  */
 package library.managment;
 
-/**
- *
- * @author Nishant
- */
+
 public class staff_menu extends javax.swing.JFrame {
 
     /**

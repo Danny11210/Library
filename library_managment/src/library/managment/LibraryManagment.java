@@ -5,10 +5,7 @@
  */
 package library.managment;
 
-/**
- *
- * @author Nishant
- */
+
 public class LibraryManagment {
 
     /**

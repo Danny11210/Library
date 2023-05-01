@@ -10,10 +10,7 @@ import java.sql.DriverManager;
 import java.sql.Statement;
 import javax.swing.JOptionPane;
 import java.sql.ResultSet;
-/**
- *
- * @author Nishant
- */
+
 public class accept_fine extends javax.swing.JFrame {
 
     /**

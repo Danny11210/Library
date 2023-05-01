@@ -13,10 +13,7 @@ import java.util.HashMap;
 import javax.swing.DefaultListModel;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Nishant
- */
+
 public class search_staff extends javax.swing.JFrame {
 
     /**

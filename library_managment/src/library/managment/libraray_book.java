@@ -12,10 +12,7 @@ import java.sql.DriverManager;
 import java.sql.Statement;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Nishant
- */
+
 public class libraray_book extends javax.swing.JFrame {
 
     /**

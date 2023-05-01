@@ -9,10 +9,7 @@ import java.sql.*;
 import javax.swing.JOptionPane;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
-/**
- *
- * @author Nishant
- */
+
 public class create_issue extends javax.swing.JFrame {
 
     /**

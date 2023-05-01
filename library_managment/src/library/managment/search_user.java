@@ -12,10 +12,7 @@ import java.sql.Statement;
 import javax.swing.DefaultListModel;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Nishant
- */
+
 public class search_user extends javax.swing.JFrame {
 
     /**

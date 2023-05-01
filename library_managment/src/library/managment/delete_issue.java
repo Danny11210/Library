@@ -10,10 +10,7 @@ import java.sql.DriverManager;
 import java.sql.Statement;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Nishant
- */
+
 public class delete_issue extends javax.swing.JFrame {
 
     /**

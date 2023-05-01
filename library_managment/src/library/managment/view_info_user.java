@@ -11,10 +11,7 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 import java.util.HashMap;
 import javax.swing.JOptionPane;
-/**
- *
- * @author Nishant
- */
+
 
 public class view_info_user extends javax.swing.JFrame {
 

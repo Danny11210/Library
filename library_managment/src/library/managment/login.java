@@ -7,10 +7,7 @@ package library.managment;
 import java.awt.HeadlessException;
 import javax.swing.JOptionPane;
 import java.sql.*;
-/**
- *
- * @author Nishant
- */
+
 public class login extends javax.swing.JFrame {
 
     /**
